@@ -39,18 +39,20 @@ Aplikasi reimbursement sederhana untuk employee menggunakan Laravel v10.22.0 (PH
 11.	User ketika melakukan pengajuan reimburse, bisa mengupload file berupa image/pdf dan bisa menampilkan detail reimbursement beserta file bukti reimburse (pdf/image)
 12.	User dengan role Direktur bisa menampilkan master Status Reimburse dan Role User
 
-### CONTOH DATA CREDENTIALS YANG BISA DIGUNAKAN PER ROLE/JABATAN
-•	Directur
+### Credentials Example
+- Directur
 NIP : 1111
 Password : password
-•	Finance
+
+- Finance
 NIP : 2222
 Password : password
-•	Staff
+
+- Staff
 NIP : 3333
 Password : password
 
-### CONTOH SCREENSHOT APSS
+### Screenshot Apps
 ![image](https://github.com/indrajayaf/kaspin-task/assets/14921024/a6176af4-4de2-4557-892c-b9de3df7ee3f)
 ![image](https://github.com/indrajayaf/kaspin-task/assets/14921024/2684c350-250b-4ff9-896b-bd88c461da60)
 
