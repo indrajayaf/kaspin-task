@@ -55,6 +55,8 @@ Password : password
 ### Screenshot Apps
 ![image](https://github.com/indrajayaf/kaspin-task/assets/14921024/a6176af4-4de2-4557-892c-b9de3df7ee3f)
 ![image](https://github.com/indrajayaf/kaspin-task/assets/14921024/2684c350-250b-4ff9-896b-bd88c461da60)
+![image](https://github.com/indrajayaf/kaspin-task/assets/14921024/dc48429b-a3c8-470c-8cd0-c00a76c9fb96)
+![image](https://github.com/indrajayaf/kaspin-task/assets/14921024/d6febd91-fe9a-4965-8d31-701dd1301a20)
 
 
 ## About Laravel
