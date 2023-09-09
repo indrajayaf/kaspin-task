@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## REIMBURSE APPS
+# REIMBURSE APPS
 Aplikasi reimbursement sederhana untuk employee menggunakan Laravel v10.22.0 (PHP v8.2.4) dan Bootstrap. 
 
 ### Instalasi
